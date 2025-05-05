@@ -1,4 +1,7 @@
-<video width="640" height="360" controls>
-  <source src="Videos/VideoDemoGameFlappyBird.mp4" type="video/mp4">
-  Trình duyệt của bạn không hỗ trợ video.
-</video>
+## Demo Video
+
+Dưới đây là video demo dự án mà mình đã thực hiện:
+
+[![Xem video demo dự án](http://img.youtube.com/vi/dGRl4AogTrU/0.jpg)](https://youtu.be/dGRl4AogTrU)
+
+Nhấp vào ảnh để xem video trên YouTube.
